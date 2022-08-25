@@ -1,0 +1,14 @@
+.lines{
+    background-image: linear-gradient(to right top, #eff5d6, #e4f7dc, #daf7e3, #d3f7ec, #d0f6f3, #d3f6f9, #d9f6fd, #dff5ff, #eaf6ff, #f3f8ff, #fafbff, #fefefe);
+}
+
+.scrl{
+    overflow-y: scroll;
+    -ms-overflow-style: none;
+    scrollbar-width: none; 
+    height: 10em;
+    border-radius: 7px
+}
+.scrl::-webkit-scrollbar {
+    display: none;
+}

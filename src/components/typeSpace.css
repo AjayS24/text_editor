@@ -1,0 +1,22 @@
+.textarea{
+  background-image: linear-gradient(to right top, #eff5d6, #e4f7dc, #daf7e3, #d3f7ec, #d0f6f3, #d3f6f9, #d9f6fd, #dff5ff, #eaf6ff, #f3f8ff, #fafbff, #fefefe);
+ }
+#heading{
+  margin-top: 1%;
+  background-image: linear-gradient(to right top, #cc84db, #ff79b6, #ff7f83, #ff9a50, #e9bc29);  width: fit-content;
+  padding: .4% .6%;
+  border-radius: 7px;
+  font-family: Arial, Helvetica, sans-serif;
+  border-style:solid;
+  color: #58ecc7;
+  border-color: #140ebf2d;
+  text-shadow: #7211f0;
+  
+}
+#fb{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
